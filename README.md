@@ -3,10 +3,10 @@
 This Repository contains the following documents :
 
 1. Option Pricing Excel Sheets 1 & 2 calculates the Binomial, Arbitrage Free, Risk-Neutral Option Pricing
-for Call and Put Options, given parameters. The Binomial Option Pricing model can be considered to be a 
-close approximation of the Black-Scholes model when a large number of periods are considered.
+for Call and Put Options, given parameters. It also calculates the relationship between the put and call options,
+also called put-call parity. The Binomial Option Pricing model can be considered to be a close approximation of the Black-Scholes model when a large number of periods are considered. PDF File also included.
 
-2. More Option Pricing Excel Sheet calculates the following :
+2. More Option Pricing Excel Sheet calculates the following (PDF File also included) :
 
   a. Short Rate Lattice.
 
